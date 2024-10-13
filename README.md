@@ -1,2 +1,3 @@
 # Tik0-Coords-Ox_Lib
-Script Simple for copy coords in FiveM
+
+You need Ox_Lib https://github.com/overextended/ox_lib
